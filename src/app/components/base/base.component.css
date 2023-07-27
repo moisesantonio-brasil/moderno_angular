@@ -1,0 +1,77 @@
+.base_total{
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-radius: 4px;
+    background-color: gainsboro;
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid gray;
+}
+.base1{
+    width: 270px;
+    height: 300px;
+}
+
+img{
+    width: 280px;
+    height: 300px;
+}
+h2{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    text-indent: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+span{
+    margin-left: 6px;
+    margin-top: 0px;
+    color: white;
+    border-radius: 4px;
+}
+
+#marcado{
+color: limegreen;
+height: 25px;
+cursor: pointer;
+}
+
+section{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    background-color: silver;
+    border-radius: 10px;
+}
+button{
+    width: 120px;
+    height: 20px;
+    font-size: 12px;
+    margin: 5px;
+    border: 0px;
+    border-radius: 4px;
+   font-weight: bolder;
+    background-color: gainsboro;
+}
+#ultimo{
+    margin-left: 135px; 
+    background-color: tomato;
+    color: white;
+}
+
+span{
+    cursor: pointer;
+}
+
+.base_tudo{
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
